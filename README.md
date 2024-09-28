@@ -1,9 +1,5 @@
 # crypto_rt_predictor
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
-
 Gather real time crypto data, visualize it and predict future prices.
 
 ## Project Organization

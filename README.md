@@ -1,5 +1,4 @@
-# crypto_rt_predictor
-
+# Crypto real time visualizer and predictor using Kafka, apache Superset and machine learning.
 Gather real time crypto data, visualize it and predict future prices.
 
 ## Project Organization
